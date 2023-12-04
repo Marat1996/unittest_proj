@@ -30,4 +30,4 @@ class TestArrs(unittest.TestCase):
 
     def test_slice_empty_array(self):
         self.assertEqual(arrs.my_slice([], 0, 1), [])
-# для коммита
+# для коммита и сохранения моей нервной системы
